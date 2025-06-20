@@ -9,18 +9,4 @@ the intersection of those three points to finally draw out resulting dot on the 
 The screenshot for the Duval's triangle is:
 ![image](https://user-images.githubusercontent.com/35109373/46913576-9ae83080-cfad-11e8-923e-96f68081622a.png)
 
-The color represents which type of fault is in the transformer.
-The input fields are in form of :
-![image](https://user-images.githubusercontent.com/35109373/47176696-e2ffae00-d333-11e8-8d19-25a6d2b91b34.png)
-
-
-After entering the values for CH4,C2H2,C2H4 the point of intersection will be location based upon the % contribution of the particular 
-gases.
-
-![image](https://user-images.githubusercontent.com/35109373/47176783-1c381e00-d334-11e8-87fb-c2c91463a55d.png)
-
-The resulting plot for the given inputs are:
-![image](https://user-images.githubusercontent.com/35109373/46913732-4e522480-cfb0-11e8-86d7-9ff441058bd8.png)
-
-Please notice as the intersecting point touches a perticular area color the resulting fault will automatically appear at the bottom.
-in Diagnosis result field.
+ 
